@@ -33,13 +33,13 @@
                     </a>
                     <ul>
                         <li>
-                            <a href="ajax-pagination.php">
+                            <a href="#.">
                                 <span class="glyphicon glyphicon-th"></span><span class="text">Ajax Pagination</span>
                             </a>                  
                         </li>          
                         <li>
-                            <a href="ajax-serialize.php">
-                                <span class="glyphicon glyphicon-th-large"></span><span class="text">Ajax Serialize</span>
+                            <a href="table_data.php">
+                                <span class="glyphicon glyphicon-th-large"></span><span class="text">Ajax Crud</span>
                             </a>                  
                         </li>                     
                         <li>
